@@ -145,7 +145,7 @@ a {
 
 .button:active {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05);
-  transform: scale(0.98) translate(-2px);
+  transform: scale(0.98) translateY(-2px);
 }
 
 .social {
